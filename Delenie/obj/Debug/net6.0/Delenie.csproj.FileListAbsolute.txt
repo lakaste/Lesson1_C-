@@ -1,0 +1,15 @@
+D:\GB education\С#\lession 1\Delenie\bin\Debug\net6.0\Delenie.exe
+D:\GB education\С#\lession 1\Delenie\bin\Debug\net6.0\Delenie.deps.json
+D:\GB education\С#\lession 1\Delenie\bin\Debug\net6.0\Delenie.runtimeconfig.json
+D:\GB education\С#\lession 1\Delenie\bin\Debug\net6.0\Delenie.dll
+D:\GB education\С#\lession 1\Delenie\bin\Debug\net6.0\Delenie.pdb
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\Delenie.csproj.AssemblyReference.cache
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\Delenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\Delenie.AssemblyInfoInputs.cache
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\Delenie.AssemblyInfo.cs
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\Delenie.csproj.CoreCompileInputs.cache
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\Delenie.dll
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\refint\Delenie.dll
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\Delenie.pdb
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\Delenie.genruntimeconfig.cache
+D:\GB education\С#\lession 1\Delenie\obj\Debug\net6.0\ref\Delenie.dll

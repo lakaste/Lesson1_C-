@@ -1,0 +1,15 @@
+D:\GB education\С#\lession 1\Summ\bin\Debug\net6.0\Summ.exe
+D:\GB education\С#\lession 1\Summ\bin\Debug\net6.0\Summ.deps.json
+D:\GB education\С#\lession 1\Summ\bin\Debug\net6.0\Summ.runtimeconfig.json
+D:\GB education\С#\lession 1\Summ\bin\Debug\net6.0\Summ.dll
+D:\GB education\С#\lession 1\Summ\bin\Debug\net6.0\Summ.pdb
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\Summ.csproj.AssemblyReference.cache
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\Summ.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\Summ.AssemblyInfoInputs.cache
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\Summ.AssemblyInfo.cs
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\Summ.csproj.CoreCompileInputs.cache
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\Summ.dll
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\refint\Summ.dll
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\Summ.pdb
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\Summ.genruntimeconfig.cache
+D:\GB education\С#\lession 1\Summ\obj\Debug\net6.0\ref\Summ.dll

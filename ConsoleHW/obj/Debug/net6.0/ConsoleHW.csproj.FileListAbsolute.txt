@@ -1,0 +1,15 @@
+D:\GB education\С#\lession 1\ConsoleHW\bin\Debug\net6.0\ConsoleHW.exe
+D:\GB education\С#\lession 1\ConsoleHW\bin\Debug\net6.0\ConsoleHW.deps.json
+D:\GB education\С#\lession 1\ConsoleHW\bin\Debug\net6.0\ConsoleHW.runtimeconfig.json
+D:\GB education\С#\lession 1\ConsoleHW\bin\Debug\net6.0\ConsoleHW.dll
+D:\GB education\С#\lession 1\ConsoleHW\bin\Debug\net6.0\ConsoleHW.pdb
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ConsoleHW.csproj.AssemblyReference.cache
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ConsoleHW.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ConsoleHW.AssemblyInfoInputs.cache
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ConsoleHW.AssemblyInfo.cs
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ConsoleHW.csproj.CoreCompileInputs.cache
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ConsoleHW.dll
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\refint\ConsoleHW.dll
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ConsoleHW.pdb
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ConsoleHW.genruntimeconfig.cache
+D:\GB education\С#\lession 1\ConsoleHW\obj\Debug\net6.0\ref\ConsoleHW.dll
